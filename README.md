@@ -1,1 +1,1 @@
-# EventFul
+# Beginner Projects
